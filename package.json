@@ -46,8 +46,7 @@
     "bluebird": "^3.5.0",
     "browserify-versionify": "^1.0.6",
     "chai": "^4.1.0",
-    "es6-map": "^0.1.5",
-    "es6-symbol": "^3.1.1",
+    "core-js": "^2.5.1",
     "glslify": "^6.1.0",
     "imports-loader": "^0.7.1",
     "istanbul": "^0.4.5",
@@ -69,7 +68,6 @@
     "karma-webpack": "^2.0.4",
     "mocha": "^3.4.2",
     "publish-please": "^2.3.1",
-    "reflect-metadata": "^0.1.10",
     "remap-istanbul": "^0.9.5",
     "rimraf": "^2.6.1",
     "sinon": "^2.4.1",
@@ -77,12 +75,9 @@
     "ts-loader": "^2.3.2",
     "ts-node": "^3.3.0",
     "tslint": "^5.5.0",
-    "typescript": "^2.4.2",
+    "typescript": "^2.5.2",
     "typescript-formatter": "^5.2.0",
     "webpack": "^3.4.1",
     "webpack-dev-server": "^2.6.1"
-  },
-  "peerDependencies": {
-    "reflect-metadata": "^0.1.10"
   }
 }
